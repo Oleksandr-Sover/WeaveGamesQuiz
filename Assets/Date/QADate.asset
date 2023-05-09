@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a84bd205b303c1444a0baebc2c624c17, type: 3}
+  m_Name: QADate
+  m_EditorClassIdentifier: 
+  arrayOfQuestionsAndAnswers:
+  - question: Which of the following elements is a gas at room temperature?
+    correctAnswer: Nitrogen
+    firstWrongAnswer: Gold
+    secondWrongAnswer: Mercury
+    thirdWrongAnswer: 
+  - question: What is the name of the process by which plants release oxygen?
+    correctAnswer: Photosynthesis
+    firstWrongAnswer: Respiration
+    secondWrongAnswer: Transpiration
+    thirdWrongAnswer: Digestion
+  - question: Which of the following planets has the largest number of moons?
+    correctAnswer: Jupiter
+    firstWrongAnswer: Earth
+    secondWrongAnswer: Venus
+    thirdWrongAnswer: 
+  - question: What is the SI unit of force?
+    correctAnswer: Newton
+    firstWrongAnswer: Joule
+    secondWrongAnswer: Watt
+    thirdWrongAnswer: Meter
+  - question: What is the name of the largest organ in the human body?
+    correctAnswer: Skin
+    firstWrongAnswer: Heart
+    secondWrongAnswer: Liver
+    thirdWrongAnswer: Lungs
+  - question: What is the process by which an organism develops from a fertilized
+      egg?
+    correctAnswer: Embryogenesis
+    firstWrongAnswer: Photosynthesis
+    secondWrongAnswer: 
+    thirdWrongAnswer: 
+  - question: Which type of radiation has the highest energy?
+    correctAnswer: Gamma rays
+    firstWrongAnswer: X-rays
+    secondWrongAnswer: Ultraviolet
+    thirdWrongAnswer: 
+  - question: What is the name of the force that opposes motion between two surfaces
+      in contact?
+    correctAnswer: Friction
+    firstWrongAnswer: Tension
+    secondWrongAnswer: Gravity
+    thirdWrongAnswer: Inertia
+  - question: What is the name of the process by which a solid turns into a liquid?
+    correctAnswer: Melting
+    firstWrongAnswer: Condensation
+    secondWrongAnswer: Sublimation
+    thirdWrongAnswer: 
+  - question: Which of the following elements is a metal?
+    correctAnswer: Sodium
+    firstWrongAnswer: Oxygen
+    secondWrongAnswer: Carbon
+    thirdWrongAnswer: Chlorine
+  - question: What is the name of the unit of measurement for electrical current?
+    correctAnswer: Ampere
+    firstWrongAnswer: Volt
+    secondWrongAnswer: Watt
+    thirdWrongAnswer: Ohm
+  - question: Which of the following is not a state of matter?
+    correctAnswer: Plasma
+    firstWrongAnswer: Solid
+    secondWrongAnswer: Gas
+    thirdWrongAnswer: 
+  - question: Which of the following diseases is caused by a virus?
+    correctAnswer: Measles
+    firstWrongAnswer: Malaria
+    secondWrongAnswer: 
+    thirdWrongAnswer: 
+  - question: What is the name of the process by which an atom loses or gains electrons?
+    correctAnswer: Ionization
+    firstWrongAnswer: Oxidation
+    secondWrongAnswer: Reduction
+    thirdWrongAnswer: 
+  - question: Which of the following is not a renewable energy source?
+    correctAnswer: Solar
+    firstWrongAnswer: Wind
+    secondWrongAnswer: Geothermal
+    thirdWrongAnswer: Fossil fuels
